@@ -1,0 +1,21 @@
+*** Weather Application Prerequisites and Setup ***
+
+Prerequisites:
+
+1. Python Installation : Ensure that Python is installed on your system. You can download and install Python from python.org.
+
+2. Requests Library : The requests library is used to make HTTP requests. 
+!!! If it is not already installed, you can install it using pip : pip install requests   !!!
+
+3. API Key from OpenWeatherMap
+** You need a valid API key from OpenWeatherMap.
+** Sign up on the OpenWeatherMap website.
+** Once you have an account, you can generate an API key.
+
+4. Basic Knowledge of Python
+** Understanding of Python programming concepts, such as functions, modules, and basic data types.
+
+
+
+
+
