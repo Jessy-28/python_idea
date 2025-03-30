@@ -1,7 +1,6 @@
 import datetime as dt
 import requests
 import json
-
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 api_key = input("Enter your API key: ")
 city_name = input("Enter a city : ")
